@@ -1,4 +1,10 @@
 # NLP_INTRODUCTION
+---
+---
+
+
+
+![RNN INTRO](https://github.com/MANOJ-S-NEGI/NLP_INTRODUCTION/assets/99602627/c6c56de4-d228-4b6b-9bd7-fd8bd62beb09)
 
 <table>
   <tr>
@@ -29,8 +35,7 @@
   
   6. Drawbacks:
       * Due to the vanishing gradient problem, SimpleRNNs are often not suitable for tasks that require capturing long-term dependencies. More advanced recurrent units like LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) have been developed to address this issue.
-
-![simprnn](https://github.com/MANOJ-S-NEGI/NLP_INTRODUCTION/assets/99602627/4035f651-505e-4393-9787-c4ae1f830883)    
+   
   </td>
 <td>
  Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture that is designed to handle long-range dependencies in sequential data.
@@ -95,10 +100,8 @@ Gated Recurrent Units (GRU) is another type of recurrent neural network (RNN) ar
    - GRUs have a simpler architecture compared to LSTMs, which can make them computationally more efficient and easier to train.
 
 Overall, GRUs have shown effectiveness in various tasks involving sequential data and are an alternative to LSTMs. The choice between using an LSTM or a GRU often depends on the specific task and dataset, and it's common practice to experiment with both to see which one performs better.
-
-
-
     
   </td>
   </tr>
 </table>
+
